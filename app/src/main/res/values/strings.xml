@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Super Hero List View</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_rank">Sort by rank</string>
+</resources>
